@@ -5,7 +5,7 @@
 <head>
   <meta charset="utf-8">
 
-  <title>Example Health</title>
+  <title>ふくちゃんの健康管理 2nd</title>
   <meta name="description" content="Example Health Admin">
   <meta name="Max Shapiro" content="Example Health">
   <link href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans" rel="stylesheet">
